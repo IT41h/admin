@@ -1,6 +1,6 @@
 # this script does not any harm to your computer.
 
-# "https://git.io/JkkhR"| %{iex ((New-Object System.Net.WebClient).DownloadString($_))}
+# "https://raw.githubusercontent.com/IT41h/admin/main/Get-AuditLocal.ps1"| %{iex ((New-Object System.Net.WebClient).DownloadString($_))}
 
 $RemoteBlock = {
 
